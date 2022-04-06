@@ -1,0 +1,30 @@
+{
+  "name": "console-hyperlink",
+  "version": "0.0.1",
+  "description": "print hyperlink like HTML <a /> in console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyrieLii/node-console-hyperlink.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "print",
+    "console",
+    "hyperlink"
+  ],
+  "author": "kyrie li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyrieLii/node-console-hyperlink/issues"
+  },
+  "homepage": "https://github.com/KyrieLii/node-console-hyperlink#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  },
+  "type": "module"
+}
